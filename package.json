@@ -1,0 +1,26 @@
+{
+  "name": "moniorstreaming",
+  "version": "1.0.0",
+  "description": "a raspberry pi cam monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendokusai/monitor.git"
+  },
+  "keywords": [
+    "monitor"
+  ],
+  "author": "ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mendokusai/monitor/issues"
+  },
+  "homepage": "https://github.com/mendokusai/monitor#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
